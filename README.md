@@ -212,8 +212,6 @@ Renders the UI using HTML + Django template tags.
 * Many-to-many (Student ↔ Subject)
 * One-to-many (Faculty → Subjects)
 
-*(Your ER diagram will sit here if uploaded)*
-
 ---
 
 # 🔄 **Data Flow Diagram (DFD) Overview**
